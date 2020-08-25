@@ -1,3 +1,5 @@
 bear
 lion
 elephant
+platypus
+kangaroo
